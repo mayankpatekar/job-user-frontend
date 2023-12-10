@@ -1,5 +1,11 @@
-# Getting Started with Create React App
+#Run it on port 3001 because fogotpassword page will give link of 3001 port
 
+
+
+
+
+
+# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
